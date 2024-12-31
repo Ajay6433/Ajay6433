@@ -1,7 +1,7 @@
-# 💫 About Me:
-Hi, I am Ajay Khan, <br>Aspiring Full-Stack Developer | Passionate about Building Web Applications | Turning Ideas into Interactive Digital Experiences
+# 🚀 Welcome to My Digital Universe!
+Hey there! I'm Ajay Khan, a code artisan crafting digital wonders. <br>✨ Full-Stack Developer in the making | 🎨 Web Application Enthusiast | 🌟 Transforming Imagination into Seamless Digital Reality
 
-## 🌐 Socials:
+## 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajay6433) 
 
 # 💻 Tech Stack:
